@@ -16,7 +16,7 @@ keywords = ['pentest', 'brute force', 'password attack']
 readme = 'README.md'
 requires-python = '>=3.13'
 dependencies = [
-  'pyopenssl>22.1.0'
+  'pyopenssl>22.1.0',
   'paramiko',
   'pycurl',
   'ajpy',
